@@ -1,0 +1,4 @@
+=== RECIBO MARCE ===
+Placa: njz05d
+Cliente: marce
+Total: 3500.0
