@@ -1,0 +1,4 @@
+=== RECIBO MARCE ===
+Placa: jmk908
+Cliente: tatiana
+Total: 4500.0
